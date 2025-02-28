@@ -1,0 +1,18 @@
+langchain  # Core LangChain library
+langchain-community  # Includes tools, document loaders, and vector DB integrations
+python-dotenv  # Load environment variables (API keys)
+langchain-openai
+ipykernel  
+pypdf  # Extract text from PDFs
+bs4  # BeautifulSoup for web scraping
+arxiv  # Access research papers from Arxiv
+pymupdf  # Alternative PDF processing library
+wikipedia  # Wikipedia API wrapper for fetching data
+langchain_text_splitters
+langchain-openai
+chromadb
+sentence_transformers #converts sentences or text into numerical vectors
+langchain_huggingface
+faiss-cpu
+langchain_chroma #langchain_chroma-0.2.2
+streamlit
